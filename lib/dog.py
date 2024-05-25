@@ -2,6 +2,9 @@
 
 class Dog:
     # Class body goes here
+    def bark(dog):
+        print("Woof!")
 
     #Instance method definition
-    pass
+    def sit(dog):
+        print("The dog is sitting.")
